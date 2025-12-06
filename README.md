@@ -137,27 +137,4 @@ Faz chamadas à API do Pipedrive com rate limiting e tratamento de erros.
 ### `getOldObject(webhookEventData)`
 Converte dados do webhook 2.0 para formato legado compatível.
 
-## 🔒 Segurança
 
-- Token do Pipedrive armazenado em Properties do Google Apps Script
-- Rate limiting para evitar spam de requisições
-- Sistema de cache para evitar processamento duplicado
-- Validação rigorosa de dados de entrada
-- Logs detalhados para auditoria
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## 📞 Suporte
-
-Para suporte ou dúvidas:
-
-- Abra uma [Issue](https://github.com/mcemy/Automacao-Tempo-de-Conclusao/issues)
-- Entre em contato através das issues do GitHub
-
----
-
-<div align="center">
-  Desenvolvido com ❤️ para otimizar processos de vendas
-</div>
